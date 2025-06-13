@@ -17,7 +17,7 @@ The time we greeted you.
 ## Example usage
 
 ```yaml
-uses: luisfer94/helloWordlAction@v1
+uses: Palafox1994/helloWorldAction@v1
 with:
   who-to-greet: 'Mona the Octocat'
 ```
