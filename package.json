@@ -1,0 +1,24 @@
+{
+  "name": "helloworldaction",
+  "version": "1.0.0",
+  "description": "helloWorldAction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Palafox1994/helloWorldAction.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Palafox1994/helloWorldAction/issues"
+  },
+  "homepage": "https://github.com/Palafox1994/helloWorldAction#readme",
+  "dependencies": {
+    "@actions/core": "^1.11.1",
+    "@actions/github": "^6.0.1"
+  }
+}
